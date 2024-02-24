@@ -23,4 +23,6 @@
 ![](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Markdown-ED8B00?style=for-the-badge&logo=markdown&logoColor=black)
+![](https://img.shields.io/badge/Latex-black?style=for-the-badge&logo=latex&logoColor=#E57324)
