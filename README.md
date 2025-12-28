@@ -12,7 +12,11 @@
   <img src="https://github.com/vernonwu/vernonwu/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
 
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vernonwu&theme=tokyonight&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
+<div align="right">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vernonwu&theme=tokyonight&hide_border=true" width="50%" alt="GitHub Streak" />
+  </a>
+</div>
 
 ## Languages
 ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
