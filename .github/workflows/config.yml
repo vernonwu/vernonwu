@@ -1,0 +1,35 @@
+name: GitHub-Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: yoshi389111/github-profile-3d-contrib@0.9.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: GitHub-Profile-Summary-Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          # The summary cards action might commit automatically. 
+          # The command below allows the workflow to pass even if there is nothing left to commit.
+          git commit -m "Generated" || echo "No changes to commit"
+          git push
