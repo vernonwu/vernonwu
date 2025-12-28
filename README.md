@@ -12,9 +12,10 @@
   <img src="https://github.com/vernonwu/vernonwu/blob/main/profile-3d-contrib/profile-night-green.svg" />
 </div>
 
-<div align="right">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vernonwu&theme=tokyonight&utcOffset=8" width="39.9%" alt="Productive Time" />
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vernonwu&theme=tokyonight&hide_border=true" width="50%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=vernonwu&theme=tokyonight&hide_border=true" width="59.6%" alt="GitHub Streak" />
   </a>
 </div>
 
