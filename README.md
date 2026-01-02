@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vernonwu&theme=tokyonight&utcOffset=8" width="39.9%" alt="Productive Time" />
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=vernonwu&theme=tokyonight&hide_border=true&mode=weekly" width="59.6%" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-pi-six-82.vercel.app?user=vernonwu&theme=tokyonight&hide_border=true&mode=weekly" width="59.6%" alt="GitHub Streak" />
   </a>
 </div>
 
