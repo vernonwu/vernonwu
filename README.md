@@ -20,14 +20,15 @@
 </div>
 
 ## Languages
-![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
-![](https://img.shields.io/badge/R-0095D5?&style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/C++-239120?style=for-the-badge&logo=cplusplus&logoColor=white)
-![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![](https://img.shields.io/badge/Markdown-ED8B00?style=for-the-badge&logo=markdown&logoColor=black)
-![](https://img.shields.io/badge/Latex-black?style=for-the-badge&logo=latex&logoColor=#E57324)
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![](https://img.shields.io/badge/C++-239120?logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Rust-black?logo=rust&logoColor=#E57324)
+![](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
+![](https://img.shields.io/badge/PostgreSQL-1572B6?logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![](https://img.shields.io/badge/Markdown-ED8B00?logo=markdown&logoColor=black)
+![](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=#E57324)
+![](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)
+![](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
