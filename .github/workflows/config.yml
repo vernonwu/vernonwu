@@ -26,6 +26,7 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "Generated 3D Contrib" || echo "No changes to commit"
+          git pull --rebase origin main
           git push
 
       # Step 3: Generate & Commit Summary Cards
