@@ -39,5 +39,5 @@ jobs:
 
       - name: GitHub Space Shooter
         uses: czl9707/gh-space-shooter@v1.0.2
-        env:
+        with:
           github-token: ${{ secrets.GH_TOKEN }}
