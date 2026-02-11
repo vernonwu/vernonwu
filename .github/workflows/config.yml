@@ -36,3 +36,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+
+      - name: GitHub Space Shooter
+        uses: czl9707/gh-space-shooter@v1.0.2
+        env:
+          github-token: ${{ secrets.GH_TOKEN }}
